@@ -12,8 +12,6 @@ What things you need to install the software and how to install them
 
 ```
 1. java 8
-2. kafka_2.11-1.1.0
-3. mysql  Ver 14.14
 4. Apache Maven 3.3.9
 ```
 
